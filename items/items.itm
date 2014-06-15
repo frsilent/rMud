@@ -1,0 +1,67 @@
+[ID]            1
+[NAME]          Small Sword
+[TYPE]          WEAPON
+[MIN]           4
+[MAX]           9
+[SPEED]         3
+[PRICE]         40
+[STRENGTH]      0
+[HEALTH]        0
+[AGILITY]       0
+[MAXHITPOINTS]  0
+[ACCURACY]      5
+[DODGING]       0
+[STRIKEDAMAGE]  0
+[DAMAGEABSORB]  0
+[HPREGEN]       0
+
+[ID]            2
+[NAME]          Leather Armor
+[TYPE]          ARMOR
+[MIN]           0
+[MAX]           0
+[SPEED]         0
+[PRICE]         20
+[STRENGTH]      0
+[HEALTH]        0
+[AGILITY]       0
+[MAXHITPOINTS]  0
+[ACCURACY]      0
+[DODGING]       10
+[STRIKEDAMAGE]  0
+[DAMAGEABSORB]  2
+[HPREGEN]       0
+
+[ID]            3
+[NAME]          Healing Potion
+[TYPE]          HEALING
+[MIN]           1
+[MAX]           5
+[SPEED]         0
+[PRICE]         10
+[STRENGTH]      0
+[HEALTH]        0
+[AGILITY]       0
+[MAXHITPOINTS]  0
+[ACCURACY]      0
+[DODGING]       0
+[STRIKEDAMAGE]  0
+[DAMAGEABSORB]  0
+[HPREGEN]       0
+
+[ID]            4
+[NAME]          Large Healing Potion (OBSOLETE, PLEASE DROP IN TOWN SQUARE)
+[TYPE]          HEALING
+[MIN]           6
+[MAX]           10
+[SPEED]         0
+[PRICE]         20
+[STRENGTH]      0
+[HEALTH]        0
+[AGILITY]       0
+[MAXHITPOINTS]  0
+[ACCURACY]      0
+[DODGING]       0
+[STRIKEDAMAGE]  0
+[DAMAGEABSORB]  0
+[HPREGEN]       0

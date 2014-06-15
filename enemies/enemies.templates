@@ -1,0 +1,29 @@
+[ID]            1
+[NAME]          Rat
+[HITPOINTS]     6
+[ACCURACY]      40
+[DODGING]       -30
+[STRIKEDAMAGE]  0
+[DAMAGEABSORB]  0
+[EXPERIENCE]    4
+[WEAPON]        40
+[MONEYMIN]      0
+[MONEYMAX]      2
+[LOOT]          40  3
+[LOOT]          35  2
+[ENDLOOT]
+
+[ID]            2
+[NAME]          Crab
+[HITPOINTS]     15
+[ACCURACY]      70
+[DODGING]       -10
+[STRIKEDAMAGE]  0
+[DAMAGEABSORB]  0
+[EXPERIENCE]    10
+[WEAPON]        41
+[MONEYMIN]      0
+[MONEYMAX]      4
+[LOOT]          41  1
+[LOOT]          35  2
+[ENDLOOT]

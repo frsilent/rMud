@@ -1,0 +1,11 @@
+[ID]             1
+[TEMPLATEID]     1
+[HITPOINTS]      6
+[ROOM]           5
+[NEXTATTACKTIME] 0
+
+[ID]             2
+[TEMPLATEID]     2
+[HITPOINTS]      15
+[ROOM]           6
+[NEXTATTACKTIME] 0

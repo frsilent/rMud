@@ -1,0 +1,12 @@
+I chose this subject in order to learn a large part of networking and language parsing.
+I learned a good deal about templates as well since the author of the book I used to guide
+me was really fond of them. I also used a good amount of #defines in order to make it
+cross-compatable but later stripped most of the windows coding. My biggest issue with sockets
+kept coming from how different Windows compilers would deal with sockets and how winsock would
+define its own socket data type instead of just using an int for a handle. On the *nix side
+I kept having issues with g++ version 4 being changed to no longer work with the templates I
+was using. My planned solution is to add a link from the snapshot.debain repository to get an older
+version of g++ and then defining that as the compiler in my makefile. I'm hoping this will resolve any
+issues I was having from templates but this project is currently on hold.
+
+-Roland
